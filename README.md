@@ -2,7 +2,7 @@
 
 I'm Iris Lidiane! I'm passionate about data📊, technology 💻 and  environment🌱. 
 
-- 💻: Data Intern at [Zygon AdTech & Data Solutions](https://www.linkedin.com/company/zygon-adtech-data/?originalSubdomain=br)
+- 💻 Data Intern at [Zygon AdTech & Data Solutions](https://www.linkedin.com/company/zygon-adtech-data/?originalSubdomain=br)
 - 🔭 I’m currently working on my portifolio for Data Science and Data Analysis ...👩‍💻
 - 📚 I’m currently learning Data Analysis with Python, SQL, Statistics and Machine Learning algorithms 📉.
 - 💬 Ask me about Data Analysis e Data Visualization with Power BI, Tableau and Google Data Studio.
